@@ -1383,3 +1383,4 @@ Ada beberapa poin yang menarik selama bonus ini yang perlu diperhatikan. Pertama
         <a href="https://balpegorxbune.page.link/f7" rel="nofollow"><div class="footer_links"><amp-img layout="responsive" width="36" height="36" src="https://img.icons8.com/fluency/36/win.png" alt="situs slot 1"></amp-img></div><div class="footer_menu_name">Link Situs 2</div></a>
     </div>
 </body>
+        </html>
