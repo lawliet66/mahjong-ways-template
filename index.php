@@ -1192,7 +1192,7 @@ p {
     <!-- Banner section -->
     <div class="banner_section">
 
-    <a href="https://pragmatic218.asia/" rel="nofollow" class="banner">
+    <a href="#" rel="nofollow" class="banner">
         <amp-img src="https://i.ibb.co/JKT00g9/slot-mahjong-ways-2.png" width="600" height="200" layout="responsive" alt="Slot Online Indonesia"></amp-img>
         </a>
     </div>
