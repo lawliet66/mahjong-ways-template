@@ -1198,8 +1198,8 @@ p {
     </div>
         <!-- Masuk & Daftar Buttons -->
         <div class="daftar-button-section text-center">
-            <a href="https://dfdfdfdfdf2023.page.link/msk" rel="nofollow" class="masuk_btn button_hover">Link Mahjong 1</a>
-            <a href="https://dfdfdfdfdf2023.page.link/dftr" rel="nofollow" class="daftar_btn button_hover">Link Mahjong 2</a>
+            <a href="https://rebrand.ly/mskmsk" rel="nofollow" class="masuk_btn button_hover">Link Mahjong 1</a>
+            <a href="https://rebrand.ly/dftrdftr" rel="nofollow" class="daftar_btn button_hover">Link Mahjong 2</a>
         </div>
         <div class="heading-center">
             <h1 class="text-color">Mahjong Ways 2 : Slot PG Soft RTP Tinggi dan Perkalian Besar</h1>
@@ -1239,7 +1239,7 @@ p {
             <ul class="review-table list-none">
               <li class="table-item spinoko_shadow spinoko_rounded spinoko_transition grid grid-cols-1 gap-4 sp-mb-4">
                 <div class="flex flex-col justify-center sp-p-4 bg-light text-center spinoko_rounded_top md:spinoko_rounded_top_none md:spinoko_rounded_left">
-                  <a href="https://pragmatic218.asia/mobile/home" rel="nofollow">
+                  <a href="#" rel="nofollow">
                     <amp-img src="https://i.ibb.co/wcP0hbt/mahjong-ways2.webp" alt="Demo Mahjong Ways 2" class="force-object-fit" width="300" height="300" layout="intrinsic"></amp-img>
                   </a>
                   <a class="flex-center sp-mt-4 text-center text-dark uppercase font-bold" href="https://apk-depot.s3.ap-northeast-1.amazonaws.com/82b.apk"rel="nofollow">
@@ -1378,9 +1378,9 @@ Ada beberapa poin yang menarik selama bonus ini yang perlu diperhatikan. Pertama
         </div>
     </div>
     <div class="footer_section_mobile">
-        <a href="https://dfdfdfdfdf2023.page.link/msk" rel="nofollow"><div class="footer_links"><amp-img layout="responsive" width="36" height="36" src="https://img.icons8.com/color/36/win.png" alt="situs slot 1"></amp-img></div><div class="footer_menu_name">Link Situs 1</div></a>
+        <a href="https://rebrand.ly/mskmsk" rel="nofollow"><div class="footer_links"><amp-img layout="responsive" width="36" height="36" src="https://img.icons8.com/color/36/win.png" alt="situs slot 1"></amp-img></div><div class="footer_menu_name">Link Situs 1</div></a>
 
-        <a href="https://dfdfdfdfdf2023.page.link/dftr" rel="nofollow"><div class="footer_links"><amp-img layout="responsive" width="36" height="36" src="https://img.icons8.com/fluency/36/win.png" alt="situs slot 1"></amp-img></div><div class="footer_menu_name">Link Situs 2</div></a>
+        <a href="https://rebrand.ly/dftrdftr" rel="nofollow"><div class="footer_links"><amp-img layout="responsive" width="36" height="36" src="https://img.icons8.com/fluency/36/win.png" alt="situs slot 1"></amp-img></div><div class="footer_menu_name">Link Situs 2</div></a>
     </div>
 </body>
         </html>
