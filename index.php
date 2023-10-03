@@ -1198,8 +1198,8 @@ p {
     </div>
         <!-- Masuk & Daftar Buttons -->
         <div class="daftar-button-section text-center">
-            <a href="https://balpegorxbune.page.link/reff" rel="nofollow" class="masuk_btn button_hover">Link Mahjong 1</a>
-            <a href="https://balpegorxbune.page.link/f7" rel="nofollow" class="daftar_btn button_hover">Link Mahjong 2</a>
+            <a href="https://dfdfdfdfdf2023.page.link/msk" rel="nofollow" class="masuk_btn button_hover">Link Mahjong 1</a>
+            <a href="https://dfdfdfdfdf2023.page.link/dftr" rel="nofollow" class="daftar_btn button_hover">Link Mahjong 2</a>
         </div>
         <div class="heading-center">
             <h1 class="text-color">Mahjong Ways 2 : Slot PG Soft RTP Tinggi dan Perkalian Besar</h1>
@@ -1378,9 +1378,9 @@ Ada beberapa poin yang menarik selama bonus ini yang perlu diperhatikan. Pertama
         </div>
     </div>
     <div class="footer_section_mobile">
-        <a href="https://balpegorxbune.page.link/reff" rel="nofollow"><div class="footer_links"><amp-img layout="responsive" width="36" height="36" src="https://img.icons8.com/color/36/win.png" alt="situs slot 1"></amp-img></div><div class="footer_menu_name">Link Situs 1</div></a>
+        <a href="https://dfdfdfdfdf2023.page.link/msk" rel="nofollow"><div class="footer_links"><amp-img layout="responsive" width="36" height="36" src="https://img.icons8.com/color/36/win.png" alt="situs slot 1"></amp-img></div><div class="footer_menu_name">Link Situs 1</div></a>
 
-        <a href="https://balpegorxbune.page.link/f7" rel="nofollow"><div class="footer_links"><amp-img layout="responsive" width="36" height="36" src="https://img.icons8.com/fluency/36/win.png" alt="situs slot 1"></amp-img></div><div class="footer_menu_name">Link Situs 2</div></a>
+        <a href="https://dfdfdfdfdf2023.page.link/dftr" rel="nofollow"><div class="footer_links"><amp-img layout="responsive" width="36" height="36" src="https://img.icons8.com/fluency/36/win.png" alt="situs slot 1"></amp-img></div><div class="footer_menu_name">Link Situs 2</div></a>
     </div>
 </body>
         </html>
